@@ -61,3 +61,12 @@ An end-to-end data analytics project focused on optimizing supply chain logistic
 * Storage-Condition Sales Volume.
 
 * Product Flavor & Type Demand.
+
+## Key Insights
+* Amul Brand Revenue Dominance: Contributes the maximum share of overall financial sales revenue.
+
+* Delhi Region Revenue Leader: Generates the highest overall revenue compared to other customer locations.
+
+* Curd High-Margin Leader: Ranks as the single most profitable individual item in the dairy inventory.
+
+* 2022 Historic Performance Spike: Records the highest overall annual sales and profit margins across the dataset.
