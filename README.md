@@ -37,7 +37,27 @@ An end-to-end data analytics project focused on optimizing supply chain logistic
 # Dashboard Pages 
 ## 1) Brand Analysis
 * Brand & Product Revenue: Evaluates total sales velocity across major dairy labels and items.
-Storage & Shelf-Life Margin: Analyzes how temperature settings and expiration dates impact net profit.
-Channel Performance Comparison: Measures financial differences between Wholesale bulk orders and Retail sales.
 
-Inventory & Reorder Gaps: Tracks stock levels against minimum thresholds to highlight fulfillment efficiency.
+* Storage & Shelf-Life Margin: Analyzes how temperature settings and expiration dates impact net profit.
+
+* Channel Performance Comparison: Measures financial differences between Wholesale bulk orders and Retail sales.
+
+* Inventory & Reorder Gaps: Tracks stock levels against minimum thresholds to highlight fulfillment efficiency.
+
+## 2)Product Analysis 
+* Monthly Profit Trends.
+
+* Brand Profitability Comparison.
+
+* Product-Wise Profit Margins.
+
+* Channel Profit Distribution.
+
+## 3)Customer Analysis
+* Top-Performing Brand Revenue.
+
+* Geographic Demand Distribution.
+
+* Storage-Condition Sales Volume.
+
+* Product Flavor & Type Demand.
